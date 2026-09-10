@@ -16,3 +16,5 @@
 3. Tercer Paso
 
 [Texto del enlace](https://www.alicia.cat)
+
+`text-align`
