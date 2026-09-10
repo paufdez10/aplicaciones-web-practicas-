@@ -17,7 +17,7 @@
 
 [Texto del enlace](https://www.alicia.cat)
 
-`Me gusta Alicia`
+`Me gusta Alicia`.
 
 ![Barsa](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNLRXW9MVWFZ8Br4KCV_zXg1y4xdj14wm8cWwPmGo1g&s=10)
 
