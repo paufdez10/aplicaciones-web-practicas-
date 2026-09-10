@@ -10,3 +10,7 @@
 - Elemento 1
 - Elemento 2
 - Elemento 3
+
+1. Primer paso
+2. Segundo Paso
+3. Tercer Paso
