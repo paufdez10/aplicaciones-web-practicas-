@@ -17,4 +17,4 @@
 
 [Texto del enlace](https://www.alicia.cat)
 
-`text-align` Hola que tal
+`text-align`. Hola que tal
