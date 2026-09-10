@@ -5,5 +5,5 @@
 
 *Esto es cursiva*
 
-~~ Esto esta chado~~
+~~Esto esta chado~~
 
