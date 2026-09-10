@@ -17,4 +17,4 @@
 
 [Texto del enlace](https://www.alicia.cat)
 
-`Me gusta Alicia`. 
+`Me gusta Alicia`
