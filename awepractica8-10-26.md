@@ -4,3 +4,4 @@ Ubuntu es un sistema operativo basado en Linux, utilizado tanto en ordenadores p
 ## 2. Configuración de VirtualBox.
 Abres virtualbox, le das a nuevo, eliges el SO pones el nombre etc, ponemos la ISO, quitamos la opción de proceed with de instalación, le das a siguiente,de base memory 2048Mb, numeros de CPU 2, disk size 25Gb y le das a finish e inicias ubuntu.
 ## 3. Proceso de instalación.
+Eliges el idioma, el teclado, ubuntu server, en la configuración de red miras que este todo correcto y le das a done, en el proxy mirror le dejas en blanco y le das a done, en el almacenamiento disco completo, en el perfil de usuario pones tu nombre, el nombre del server, la contraseña y le das a siguiente, le das a activar SSH, snaps destacados ninguno y final de instalación.
