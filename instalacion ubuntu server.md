@@ -32,3 +32,6 @@
 8. Le das a activar SSH
 9. Snaps destacados, ninguno
 10. Y final de la instalación
+
+SSH es un protocolo de red que permite conectarse y administrar servidores o ordenadores de forma remota a través de un canal completamente cifrado y seguro.
+
