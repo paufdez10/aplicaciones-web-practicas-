@@ -9,3 +9,4 @@ Eliges el idioma, el teclado, ubuntu server, en la configuración de red miras q
 ## 2.1 Qué es SSH
 SSH es un protocolo de red que permite conectarse y administrar servidores o ordenadores de forma remota a través de un canal completamente cifrado y seguro.
 ## 2.2 Configuración SSH 
+
