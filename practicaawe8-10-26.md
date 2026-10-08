@@ -25,9 +25,10 @@
          Require valid-user
      </Directory>
   </VirtualHost> 
-11. Para Activar el sitio y reiniciar Apache,
-12. sudo a2ensite smr.conf , sudo a2dissite 000-default.conf , sudo apachectl configtest , sudo systemctl restart apache2
-13. Y ahora escribes en la maquina real tus ips y ya te debería dejar.
-14. Y en un windows de maquina virtual escribes, www.smr.com y www.smr.com:9999 ya ya esta, sino te funciona tienes que ir a la carpeta de hosts y darle permisos al usuario y ya estaría.
+11. Para Activar el sitio y reiniciar Apache,sudo a2ensite smr.conf , sudo a2dissite 000-default.conf , sudo apachectl configtest , sudo systemctl restart apache2
+
+12. Y ahora escribes en la maquina real tus ips y ya te debería dejar.
+    
+13. Y en un windows de maquina virtual escribes, www.smr.com y www.smr.com:9999 ya ya esta, sino te funciona tienes que ir a la carpeta de hosts y darle permisos al usuario y ya estaría.
   
      
