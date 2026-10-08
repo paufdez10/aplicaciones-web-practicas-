@@ -2,7 +2,7 @@
 
 1. Conectas el ssh de tu pc a la maquina virtual de esta manera: ssh pau@192.168.56.10 y pones la contraseña y ya.
 2. Luego pones este comando: sudo mkdir -p /var/www/smr/web /var/www/smr/intranet y la contraseña.
-3. Ahora pones esto, echo "<h1>Bienvenidos a SMR</h1>" | sudo tee /var/www/smr/web/index.html y debajo esto,echo "<h1>Intranet de SMR</h1>" | sudo tee /var/www/smr/intranet/intranet.html
+3. Ahora pones esto, echo "<h1> Bienvenidos a SMR</h1" | sudo tee /var/www/smr/web/index.html y debajo esto,echo "<h1>Intranet de SMR</h1" | sudo tee /var/www/smr/intranet/intranet.html
 4. Ahora procedemos a crear el usuario de la intranet con estos comandos, sudo apt install apache2-utils -y y sudo htpasswd -c /etc/apache2/.htpasswd alumno
 5. Os pedirá la contraseña dos veces. Ese usuario y esa contraseña serán los que pida la intranet.
 6. Para decirle a Apache que escuche en el puerto 9999 hacemos esto, sudo nano /etc/apache2/ports.conf, debajo de la línea Listen 80 añadid una línea nueva:Listen 9999
