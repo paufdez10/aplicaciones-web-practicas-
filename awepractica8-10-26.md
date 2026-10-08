@@ -3,3 +3,4 @@
 Ubuntu es un sistema operativo basado en Linux, utilizado tanto en ordenadores personales como en servidores. Permite administrar el sistema mediante comandos y dispone de herramientas para configurar la red y servicios como SSH, las interfaces de red permiten conectar el equipo a una red.
 ## 2. Configuración de VirtualBox.
 Abres virtualbox, le das a nuevo, eliges el SO pones el nombre etc, ponemos la ISO, quitamos la opción de proceed with de instalación, le das a siguiente,de base memory 2048Mb, numeros de CPU 2, disk size 25Gb y le das a finish e inicias ubuntu.
+## 3. Proceso de instalación.
