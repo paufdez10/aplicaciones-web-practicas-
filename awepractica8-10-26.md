@@ -7,4 +7,5 @@ Abres virtualbox, le das a nuevo, eliges el SO pones el nombre etc, ponemos la I
 Eliges el idioma, el teclado, ubuntu server, en la configuración de red miras que este todo correcto y le das a done, en el proxy mirror le dejas en blanco y le das a done, en el almacenamiento disco completo, en el perfil de usuario pones tu nombre, el nombre del server, la contraseña y le das a siguiente, le das a activar SSH, snaps destacados ninguno y final de instalación.
 # 2. Gestionando un servidor por SSH. 
 ## 2.1 Qué es SSH
-
+SSH es un protocolo de red que permite conectarse y administrar servidores o ordenadores de forma remota a través de un canal completamente cifrado y seguro.
+## 2.2 Configuración SSH 
