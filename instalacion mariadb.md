@@ -111,12 +111,3 @@ Linux 	Ubuntu Server 24.04 	Instalado
 Apache 	Apache2 	Funcionando
 MariaDB 	MariaDB 	Funcionando
 PHP 	PHP 8.3 	Instalado y preparado para MariaDB
-
-Por último, creamos una instantánea (snapshot) de la máquina virtual desde VirtualBox. Así tendremos una copia del estado actual del servidor antes de empezar a instalar WordPress.
-7. Conclusión
-
-En esta práctica hemos instalado MariaDB y comprobado que funciona correctamente. También hemos aprendido a consultar el estado de un servicio, detenerlo y volver a iniciarlo.
-
-Después hemos instalado PHP y los módulos necesarios para que Apache pueda ejecutarlo y para que PHP pueda conectarse con MariaDB.
-
-Con esto, el servidor ya tiene instalados los componentes principales de LAMP y está preparado para continuar con la instalación de WordPress.
