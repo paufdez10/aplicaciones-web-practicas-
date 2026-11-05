@@ -6,7 +6,7 @@ N.º | Afirmación |  V / F
 3 | "El valor de un atributo siempre se escribe entre comillas." |
 4 | "Los atributos de una etiqueta se escriben en la etiqueta de cierre." |
 5 | "El texto de <title> aparece en la pestaña del navegador." |
-6 | "<strong> y <b> se visualizan igual." |
+6 | "strong y b se visualizan igual." |
 7 |
 8 |
 9 |
