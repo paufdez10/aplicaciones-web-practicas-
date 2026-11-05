@@ -7,7 +7,7 @@ N.º | Afirmación |  V / F
 4 | "Los atributos de una etiqueta se escriben en la etiqueta de cierre." |
 5 | "El texto de <title> aparece en la pestaña del navegador." |
 6 | "strong y b se visualizan igual." |
-7 |
-8 |
-9 |
-10 |
+7 | "Todo lo que escribimos dentro de <head> se ve en la página." |
+8 | "La etiqueta <hr> se cierra con </hr>." |
+9 | "Un comentario HTML (<!-- ... -->) se muestra en pantalla como una nota gris." |
+10 | "<span> crea un bloque de texto que siempre empieza en una línea nueva." |
